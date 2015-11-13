@@ -3,7 +3,6 @@ Commande de capacité ou de self inductance commutée synchrone par modulateur d
 
 A faire le 13/11/2015:
 
-Créer empreinte potentiomètre
 Check schématique
 Ajout connecteurs de test ?
 Routage
